@@ -19,7 +19,7 @@
     "BOT_NAME": {
       "description": "Fill in the name of your bot",
       "required": false,
-      "value": "Anjali ChatBot"
+      "value": "ANJALI CHAT BOT"
     },
     "CHANNEL": {
       "description": "Fill it with your channel username without the @ sign, if you don't have it, don't fill it in",
