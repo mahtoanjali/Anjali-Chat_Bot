@@ -1,7 +1,7 @@
 import os 
 
 TOKEN = os.environ.get("TOKEN", "")
-OWNER = os.environ.get("OWNER", "AmiFutami")
-GROUP = os.environ.get("GROUP", "safothebot")
-CHANNEL = os.environ.get("CHANNEL", "AsmSafone")
-BOT_NAME = os.environ.get("BOT_NAME", "Anonymous ChatBot")
+OWNER = os.environ.get("OWNER", "QUEENx_GOD")
+GROUP = os.environ.get("GROUP", "AnjalixSupportxGroup)
+CHANNEL = os.environ.get("CHANNEL", "MAHTOxOFFICIAL")
+BOT_NAME = os.environ.get("BOT_NAME", "ANJALI CHAT BOT")
