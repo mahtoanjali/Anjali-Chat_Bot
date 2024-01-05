@@ -1,7 +1,7 @@
 {
   "name": "AnonymousChatBot",
   "description": "Simple Chat Bot In English.",
-  "repository": "https://github.com/Achu2234/AnonymousChatBot",
+  "repository": "https://github.com/mahtoanjali/Anjali-Chat_Bot",
   "env": {
     "TOKEN": {
       "description": "Get it on @botfather",
@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "Fill in the name of your bot",
       "required": false,
-      "value": "Anonymous ChatBot"
+      "value": "Anjali ChatBot"
     },
     "CHANNEL": {
       "description": "Fill it with your channel username without the @ sign, if you don't have it, don't fill it in",
       "required": false,
-      "value": "AsmSafone"
+      "value": "QUEENx_GOD"
     }
   }
 }
