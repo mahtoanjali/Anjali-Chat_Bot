@@ -1,6 +1,6 @@
 import os 
 
-TOKEN = os.environ.get("TOKEN", "")
+TOKEN = os.environ.get("TOKEN", "6416853198:AAH8WJ68FyVFTl5kbD5-bXbivZo94XCAUUU")
 OWNER = os.environ.get("OWNER", "QUEENx_GOD")
 GROUP = os.environ.get("GROUP", "AnjalixSupportxGroup)
 CHANNEL = os.environ.get("CHANNEL", "MAHTOxOFFICIAL")
